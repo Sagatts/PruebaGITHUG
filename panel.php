@@ -461,9 +461,6 @@ $con = conectar();
                     <div class="mb-2 enlacesfooter">
                         <a class="text-secondary text-decoration-none" href="#">Instagram</a>
                     </div>
-                    <div class="mb-2 enlacesfooter">
-                        <a class="text-secondary text-decoration-none" href="#">Instagram</a>
-                    </div>
                 </div>
     
                 <!--Columna 4-->
